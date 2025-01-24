@@ -1,4 +1,4 @@
-# lab-3-early-debouncer-the-multiplexers
+# lab-3-early-debouncer   Group: the-multiplexers
 
 ## Early Detection Debouncing Circuit Lab
 
