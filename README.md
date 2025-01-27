@@ -9,3 +9,6 @@ note: in the repo description (not here exactly, find it under settings???), men
 explain how multiplexers is a group or don't mention it...
 
 mention I have used the nexas
+
+
+note: midterm 2 seems to be complete (with the file of complete micro controller so be aware of this)
