@@ -1,6 +1,6 @@
 # Adv-Verilog-Labs
 
-Consists of some projects I had to complete in this course which requires knowledge of verilog, systemverilog, C++, drivers, microcontroller concepts as well as experience using Vitis and Vivado
+Consists of some projects I had to complete in this course which requires knowledge of Verilog, Systemverilog, C++, drivers, microcontroller concepts as well as experience using Vitis and Vivado
 
 I should disclaim how we are using someone elses mmio controller system..... and how some of the labes after 8 might lack the rest of the system. and contraints and stuff
 
