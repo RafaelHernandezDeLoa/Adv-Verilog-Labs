@@ -2,21 +2,9 @@
 
 Consists of some projects I had to complete in this course which requires knowledge of Verilog, Systemverilog, C++, drivers, microcontroller concepts as well as experience using Vitis and Vivado
 
+The SPI, PS2, Midterm 2 and Final project was created with the microcontroller system that Pong P. Chu used in his book "PGA Prototyping by SystemVerilog Examples: Xilinx MicroBlaze
+MCS SoC Edition"
 
+This microcontroller system is not shown in the SPI and PS2 labs sinces I only needed to change the main file but can be visable in the Midterm 2 and Final project.
 
-I should disclaim how we are using someone elses mmio controller system..... and how some of the labes after 8 might lack the rest of the system. and contraints and stuff
-
-
-
-
-
-mention that some labs have the defualt functions still in it and the functions I have created are usally in the later/end part of the program.
-
-note: in the repo description (not here exactly, find it under settings???), mention the things one will find here. The use of spi, i2c,... ect.
-
-explain how multiplexers is a group or don't mention it...
-
-mention I have used the nexas  Nexys A7-100T
-
-
-note: midterm 2 seems to be complete (with the file of complete micro controller so be aware of this)
+I have used the Nexys A7-100T FPGA board to complete these projects.
