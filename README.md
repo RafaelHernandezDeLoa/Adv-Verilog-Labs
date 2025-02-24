@@ -1,6 +1,6 @@
 # Adv-Verilog-Labs
 
-Consists of some projects I had to complete in this course which requires knowledge of Verilog, Systemverilog, C++, drivers, microcontroller concepts as well as experience using Vitis and Vivado
+Consists of some projects I had to complete in this course which requires knowledge of Verilog, SystemVerilog, C++, drivers, microcontroller concepts as well as experience using Vitis and Vivado
 
 The SPI, PS2, Midterm 2 and Final project was created with the microcontroller system that Pong P. Chu used in his book "PGA Prototyping by SystemVerilog Examples: Xilinx MicroBlaze
 MCS SoC Edition"
