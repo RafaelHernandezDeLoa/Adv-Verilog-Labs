@@ -1,3 +1,2 @@
-me and partner...
 
 used systemverilog HDL, microcontrollers concepts, C++, and video buffer stuff
