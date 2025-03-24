@@ -16,3 +16,6 @@ Whether you use a Mouse or a Keyboard, use the seven-segment display to show the
 - The image below shows an example of a paused system with a speed of 834
 
 ![image](https://github.com/user-attachments/assets/9388bf3b-2653-4ef9-a5a8-d4261cc013e3)
+
+
+Clarifications: I choose to use a mouse to complete this lab. The buttons of the mouse help my command the program and when I click the right button of the mouse for the first time, the program will take the distance the mouse traveled horizontally (left and right on the surface the mouse is on) to help us set how long the wait will be between each leds actions ....explain...
