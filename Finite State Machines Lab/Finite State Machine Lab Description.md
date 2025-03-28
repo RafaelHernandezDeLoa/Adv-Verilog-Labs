@@ -8,4 +8,8 @@ the falling edge. Follow the FSM design procedure to design the early debouncing
 3. Derive a testbench and use simulation to verify operation of the code.
 4. Show the switch signal and the debounced signal on the oscilloscope.
 
-picture in the lab 3 pdf I can put here....
+<img width="1003" alt="image" src="https://github.com/user-attachments/assets/e830018e-05e3-48c5-9e4f-f7acd77501df" />
+ 
+<img width="1054" alt="image" src="https://github.com/user-attachments/assets/d110c157-838b-4d23-9326-8d910813505c" /> ////don't know it this is necessary....
+
+
