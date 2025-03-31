@@ -2,4 +2,4 @@ Before the midterm, the professor told us to buy a time of flight peripheral mod
 
 **Color Spectrum:**
 
-<p align="center"><img width="357" alt="image" src="https://github.com/user-attachments/assets/2931ac47-7a9f-4b72-a259-252d18327b88" />
+<p align="center"><img width="657" alt="image" src="https://github.com/user-attachments/assets/2931ac47-7a9f-4b72-a259-252d18327b88" />
