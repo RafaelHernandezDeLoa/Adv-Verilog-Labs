@@ -20,4 +20,4 @@ the falling edge. Follow the FSM design procedure to design the early debouncing
 <br><br>
 **Oscilloscope:**
 
-<p align="center"> <img width="564" alt="image" src="https://github.com/user-attachments/assets/41364bd5-b758-4986-947a-45ddd4ce3789"> </p>
+<p align="center"> <img width="764" alt="image" src="https://github.com/user-attachments/assets/41364bd5-b758-4986-947a-45ddd4ce3789"> </p>
