@@ -17,6 +17,7 @@ Note: "the multiplexers" is just a group name me and my partner came up with. Mo
 Image Source: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FDigilent-Nexys-DDR-Artix-7-FPGA%2Fdp%2FB0714MKJ4H&psig=AOvVaw3jBLGdKpvcYHFVCaWTgGJW&ust=1743529789176000&source=images&cd=vfe&opi=89978449&ved=0CBgQ3YkBahcKEwi4oobi8LSMAxUAAAAAHQAAAAAQBA
 <br><br>
 **Diagram of the FPro SoC platform that I used in this course:**
+
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/26fd7b28-e0d4-4961-9b06-d1716a6d73b3" />
 
 
