@@ -18,6 +18,6 @@ Image Source: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2
 <br><br>
 **Diagram of the FPro SoC platform that I used in this course:**
 
-<img width="483" alt="image" src="https://github.com/user-attachments/assets/26fd7b28-e0d4-4961-9b06-d1716a6d73b3" />
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/26fd7b28-e0d4-4961-9b06-d1716a6d73b3" />
 
 
