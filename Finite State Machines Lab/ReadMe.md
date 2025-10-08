@@ -12,7 +12,7 @@ the falling edge. Follow the FSM design procedure to design the early debouncing
 <br><br>
 **State Diagram:**
 
-<p align="center"> <img width="563" alt="p2" src="https://github.com/user-attachments/assets/57518a84-c988-46ab-92b6-fb9e989d26d5"> </p>
+<img width="563" alt="p2" src="https://github.com/user-attachments/assets/57518a84-c988-46ab-92b6-fb9e989d26d5">
 <br><br>
 **ASM Chart:**
 
